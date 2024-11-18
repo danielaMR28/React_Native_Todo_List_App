@@ -1,4 +1,4 @@
-#React Native Todo List App
+# React Native To-Do List App
 
 ## Description
 Mobile task management application developed with React Native, featuring Firebase authentication and real-time database, built using Expo Go.
