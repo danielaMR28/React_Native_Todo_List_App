@@ -29,3 +29,5 @@ Mobile task management application developed with React Native, featuring Fireba
 
 ## Contributing
 Pull requests welcome. For major changes, open an issue first.
+
+
